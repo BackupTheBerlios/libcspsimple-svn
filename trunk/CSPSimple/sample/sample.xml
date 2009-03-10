@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+	<declare>
+		<ci>A</ci>
+		<list>
+			<cn>1</cn>
+			<cn>2</cn>
+		</list>
+	</declare>
+	<apply>
+		<minus/>
+		<cn>17</cn>
+		<ci>A</ci>
+	</apply>
+</math>
